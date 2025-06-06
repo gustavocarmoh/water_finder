@@ -50,7 +50,7 @@ Para testar a aplicação, utilize as seguintes credenciais padrão:
 
    ```bash
    git clone <URL-DO-REPOSITORIO>
-   cd agua-ja
+   cd water_finder
    ```
 
 2. **Abra no Android Studio**
