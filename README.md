@@ -1,16 +1,15 @@
-# water_finder
+Nome do projeto.
+Projeto - ÁguaJá
 
-A new Flutter project.
+Breve descrição da solução:
+O ÁguaJá é um aplicativo mobile voltado para auxiliar comunidades afetadas pela escassez de água, por meio de:
+•	Agendamento para coleta de água;
+•	Localização de pontos de distribuição mais próximos;
+•	Dicas de economia e uso consciente da água.
 
-## Getting Started
+Tecnologias utilizadas:
+•	Frontend (Flutter): Interface do usuário com navegação entre telas, consumo de APIs, exibição de mapas e formulários.
+•	Google Maps API: Para geolocalização dos pontos de coleta e visualização no mapa.
+•	Biblioteca Intl: Formatação de datas de acordo com o sistema do usuário para os agendamentos.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Instruções básicas de execução:
