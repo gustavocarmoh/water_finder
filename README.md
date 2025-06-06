@@ -39,7 +39,7 @@
 
 Para testar a aplicação, utilize as seguintes credenciais padrão:
 
-* **Email:** `teste@agua.com`
+* **Email:** `teste`
 * **Senha:** `teste123`
 
 ---
