@@ -40,7 +40,7 @@
 Para testar a aplicação, utilize as seguintes credenciais padrão:
 
 * **Email:** `teste`
-* **Senha:** `teste123`
+* **Senha:** `teste`
 
 ---
 
